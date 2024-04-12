@@ -1,0 +1,7 @@
+{
+    "name": "uplift-predictor",
+    "implementation": "inference.UpliftPredictor",
+    "parameters": {
+        "uri": "solo_cb.joblib"
+    }
+}
